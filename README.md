@@ -1,4 +1,4 @@
-# Simple Login Page
+# Login Page
 
 This project is a basic login page designed using HTML and CSS. It features a simple form where users can enter their username and password. The page is styled to be responsive and user-friendly.
 
